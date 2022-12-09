@@ -7,8 +7,7 @@ steps followed to create this outline:
 
 using github's verbose doodle tech things like Node.js and npm are installed by default for convience. So we can start using those tools now.
 
-1)
-this step installs the command line interface for angular projects
+1) this step installs the command line interface for angular projects
  ```
  npm install -g @angular/cli
  ```
