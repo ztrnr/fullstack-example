@@ -1,5 +1,7 @@
-# angular-example
+# fullstack-example
 This is an example project for the "HACK" event
+
+# ANGULAR WEBAPP
 
 ## Project Creation Details
 
@@ -187,3 +189,32 @@ A quick overview for the git installation tool on windows
 * and enable caching for faster operations
 * don't opt in for new psuedo features
 * after all these options you may click install
+
+
+
+# API
+
+this is still up in the air. 
+first we want to try and bypass the need of an api and try to make database calls with angular
+other options inlude
+
+NodeJs API -> AUDRA HENSLEY or ROSALINA POWELL would need to provide expertise on this.
+PYTHON API -> ROSALINA POWELL or AUDRA HENSLEY would need to provide expertise on this.
+JAVA API -> ROSALINA POWELL or ZACH TURNER or PHILIPPE LUMPKIN would need to provide expertise on this.
+
+NodeJs Frameworks available and familiar with are:
+
+featherJS https://feathersjs.com/ -- I think audra mentioned this? memory is hard.
+add more here
+
+Python Frameworks availabale and familiar with are:
+flask https://flask.palletsprojects.com/en/2.2.x/ -- I've used this
+fastAPI  https://fastapi.tiangolo.com/ -- this is easier
+add more here
+
+Java Frameworks availabale and familiar with are:
+SPRING https://spring.io/projects/spring-framework -- powell, turner, and lumpkin are familiar
+Jersey (Plain / custom) https://eclipse-ee4j.github.io/jersey/ -- turner and lumpkin are familiar
+add more here
+
+
