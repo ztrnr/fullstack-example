@@ -9,8 +9,7 @@ steps followed to create this outline:
 
 using github's verbose doodle tech things like Node.js and npm are installed by default for convience. So we can start using those tools now.
 
-1)
-this step installs the command line interface for angular projects
+1) this step installs the command line interface for angular projects
  ```
  npm install -g @angular/cli
  ```
@@ -59,11 +58,20 @@ Data Services using subjects and observables for a component/service model
 Node library for database calls directly without a backend API
 
 # HOW TO START
+## Use Codespace
 
-Locally (on your computer or dev env) you'll need the following tools:
+ Read this -> https://docs.github.com/en/codespaces/developing-in-codespaces/developing-in-a-codespace
+ and this -> https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository
+
+This may be a good option for a faster start up time if kids decide to use github the codespace includes IDE and tooling needed out of box.
+
+## Locally
+
+You'll need the following tools:
 1) A text editor or IDE (I use vscode but whatever is perfect)
 2) git and a github.com account (see Do I have git? section below)
 3) Node.Js and NPM (see Node.JS and NPM section below)
+4) Terminal(s) or command prompt window(s)
 
 Clone the repo at https://github.com/ztrnr/angular-example.git
 
