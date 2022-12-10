@@ -147,6 +147,8 @@ when working in a branch always make sure your not BEHIND on commits in MAIN.
 
 if you want something different or a change to this workflow let me know.
 
+ORR just force push to main. Who really cares about this repo anyway?
+
 *if you don't have git see Installing Git on Windows below for directions
 
 
