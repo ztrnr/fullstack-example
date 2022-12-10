@@ -216,13 +216,9 @@ If you're wondering about performance of these solutions like I do. I've found t
 including spring boot, fastapi, express.js, fastify, gin
 https://www.travisluong.com/fastapi-vs-fastify-vs-spring-boot-vs-gin-benchmark/
 
-
-NodeJs API -> AUDRA HENSLEY or ROSALINA POWELL would need to provide expertise on this.
-PYTHON API -> ROSALINA POWELL or AUDRA HENSLEY would need to provide expertise on this.
-JAVA API -> ROSALINA POWELL or ZACH TURNER or PHILIPPE LUMPKIN would need to provide expertise on this.
-
 NodeJs Frameworks available and familiar with are:
  * featherJS https://feathersjs.com/ -- I think audra mentioned this? memory is hard.
+ * express.js
  * add more here
 
 Python Frameworks availabale and familiar with are:
