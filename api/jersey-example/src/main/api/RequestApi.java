@@ -41,6 +41,13 @@ public class RequestApi {
         return this.requestSql.selectRequest(id);
     }
 
+    @GET
+    @Produces({ MediaType.APPLICATION_JSON })
+    @Path("")
+    public String getRequest() throws Exception {
+        return "Hello World";
+    }
+
     @PUT
     @Consumes({ MediaType.APPLICATION_JSON })
     @Path("")
