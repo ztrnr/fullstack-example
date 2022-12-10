@@ -204,25 +204,35 @@ A quick overview for the git installation tool on windows
 
 this is still up in the air. 
 first we want to try and bypass the need of an api and try to make database calls with angular
-other options inlude
+other options inlcude
+
+MY inital thoughts:
+ * These would all be restful.
+ * A node api is the fastest at runtime, simple to implement, and easy for production enironments
+ * Python is the fastest for getting started and typing but harder for production environments
+ * Java is closer to what most schools teach and students may feel more comortable 
+
+If you're wondering about performance of these solutions like I do. I've found they heavily depend on the rest of the stack and how you write the code but this blog was good read. This blog gives a good comparison between multiple backend stacks by requests per second
+including spring boot, fastapi, express.js, fastify, gin
+https://www.travisluong.com/fastapi-vs-fastify-vs-spring-boot-vs-gin-benchmark/
+
 
 NodeJs API -> AUDRA HENSLEY or ROSALINA POWELL would need to provide expertise on this.
 PYTHON API -> ROSALINA POWELL or AUDRA HENSLEY would need to provide expertise on this.
 JAVA API -> ROSALINA POWELL or ZACH TURNER or PHILIPPE LUMPKIN would need to provide expertise on this.
 
 NodeJs Frameworks available and familiar with are:
-
-featherJS https://feathersjs.com/ -- I think audra mentioned this? memory is hard.
-add more here
+ * featherJS https://feathersjs.com/ -- I think audra mentioned this? memory is hard.
+ * add more here
 
 Python Frameworks availabale and familiar with are:
-flask https://flask.palletsprojects.com/en/2.2.x/ -- I've used this
-fastAPI  https://fastapi.tiangolo.com/ -- this is easier
-add more here
+ * flask https://flask.palletsprojects.com/en/2.2.x/ -- I've used this
+ * fastAPI  https://fastapi.tiangolo.com/ -- this is easier
+ * add more here
 
 Java Frameworks availabale and familiar with are:
-SPRING https://spring.io/projects/spring-framework -- powell, turner, and lumpkin are familiar
-Jersey (Plain / custom) https://eclipse-ee4j.github.io/jersey/ -- turner and lumpkin are familiar
-add more here
+ * SPRING https://spring.io/projects/spring-framework -- powell, turner, and lumpkin are familiar
+ * Jersey (Plain / custom) https://eclipse-ee4j.github.io/jersey/ -- turner and lumpkin are familiar
+ * add more here
 
 
