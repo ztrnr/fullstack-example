@@ -1,4 +1,6 @@
-# steps taken for creation
+# Jersey
+
+A java framework
 
 idk m8 i just copy pasta and hope it works.
 
