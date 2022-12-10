@@ -1,4 +1,4 @@
-# steps tacken for creation
+# FASTAPI
 
 followed  https://fastapi.tiangolo.com/
 
